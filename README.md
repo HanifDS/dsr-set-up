@@ -6,4 +6,4 @@
 ![image](./assets/image.jpg)
 
 ## Project Description
-The purpose of this mini-pro`ject is to show how to set up a data science project
+The purpose of this mini-project is to show how to set up a data science project
